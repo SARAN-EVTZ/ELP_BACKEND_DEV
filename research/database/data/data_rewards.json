@@ -1,0 +1,111 @@
+[
+  {
+    "title": "Offer Letter Acceptance - INTERNS ",
+    "description": "Offer accepted on same date of offer release",
+    "points": 20,
+    "is_expiry_date": true,
+    "valid_from": "01-01-2019",
+    "valid_till": "01-01-2019",
+    "employement_id": "2aad1c2c-b815-4621-9026-b61fc7068a71"
+  },
+  {
+    "title": "Attended Ice-Cream Social - INTERNS",
+    "description": "Attended the ice-cream social",
+    "points": 5,
+    "is_expiry_date": true,
+    "valid_from": "04-01-2019",
+    "valid_till": "04-01-2019",
+    "employement_id": "2aad1c2c-b815-4621-9026-b61fc7068a71"
+  },
+  {
+    "title": "Within a month of Offer Letter - INTERNS",
+    "description": "Joined within a month of being awarded the offer letter",
+    "points": 20,
+    "is_expiry_date": true,
+    "valid_from": "04-01-2019",
+    "valid_till": "04-02-2019",
+    "employement_id": "2aad1c2c-b815-4621-9026-b61fc7068a71"
+  },
+  {
+    "title": "Employee Engagement Activities - INTERNS",
+    "description": "Participated in employment engagement activities",
+    "points": 20,
+    "is_expiry_date": false,
+    "valid_from": "04-01-2019",
+    "valid_till": "04-01-2019",
+    "employement_id": "2aad1c2c-b815-4621-9026-b61fc7068a71"
+  },
+  {
+    "title": "Offer Letter Acceptance - FULL TIME",
+    "description": "Offer accepted on same date of offer release",
+    "points": 20,
+    "is_expiry_date": true,
+    "valid_from": "01-01-2019",
+    "valid_till": "01-01-2019",
+    "employement_id": "7d2fabb2-9d99-4305-ba9b-4f1583c1374f"
+  },
+  {
+    "title": "Attended Ice-Cream Social - FULL TIME",
+    "description": "Attended the ice-cream social",
+    "points": 5,
+    "is_expiry_date": true,
+    "valid_from": "04-01-2019",
+    "valid_till": "04-01-2019",
+    "employement_id": "7d2fabb2-9d99-4305-ba9b-4f1583c1374f"
+  },
+  {
+    "title": "Within a month of Offer Letter - FULL TIME",
+    "description": "Joined within a month of being awarded the offer letter",
+    "points": 20,
+    "is_expiry_date": true,
+    "valid_from": "04-01-2019",
+    "valid_till": "04-02-2019",
+    "employement_id": "7d2fabb2-9d99-4305-ba9b-4f1583c1374f"
+  },
+  {
+    "title": "Employee Engagement Activities - FULL TIME",
+    "description": "Participated in employment engagement activities",
+    "points": 20,
+    "is_expiry_date": false,
+    "valid_from": "04-01-2019",
+    "valid_till": "04-01-2019",
+    "employement_id": "7d2fabb2-9d99-4305-ba9b-4f1583c1374f"
+  },
+
+  {
+    "title": "Offer Letter Acceptance - CONTRACTORS",
+    "description": "Offer accepted on same date of offer release",
+    "points": 20,
+    "is_expiry_date": true,
+    "valid_from": "01-01-2019",
+    "valid_till": "01-01-2019",
+    "employement_id": "21cd8894-a7fb-4eb7-b443-5a0c7f8b87d8"
+  },
+  {
+    "title": "Attended Ice-Cream Social - CONTRACTORS",
+    "description": "Attended the ice-cream social",
+    "points": 5,
+    "is_expiry_date": true,
+    "valid_from": "04-01-2019",
+    "valid_till": "04-01-2019",
+    "employement_id": "21cd8894-a7fb-4eb7-b443-5a0c7f8b87d8"
+  },
+  {
+    "title": "Within a month of Offer Letter - CONTRACTORS",
+    "description": "Joined within a month of being awarded the offer letter",
+    "points": 20,
+    "is_expiry_date": true,
+    "valid_from": "04-01-2019",
+    "valid_till": "04-02-2019",
+    "employement_id": "21cd8894-a7fb-4eb7-b443-5a0c7f8b87d8"
+  },
+  {
+    "title": "Employee Engagement Activities - CONTRACTORS",
+    "description": "Participated in employment engagement activities",
+    "points": 20,
+    "is_expiry_date": false,
+    "valid_from": "04-01-2019",
+    "valid_till": "04-01-2019",
+    "employement_id": "21cd8894-a7fb-4eb7-b443-5a0c7f8b87d8"
+  }
+]
